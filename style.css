@@ -28,7 +28,7 @@ h1{
 }
 
 .button{
-    background-color: var(--cor-secundaria);
+    background-color:  #ff0000;
     color: var(--cor-texto);
     border: none;
     border-radius: 10px;
