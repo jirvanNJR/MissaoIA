@@ -6,6 +6,11 @@
     --cor-texto: #f2d7ff;
 }
 
+@font-face {
+    font-family: 'Minecraftia';
+    src: url('Minecraftia-Regular.ttf') format('truetype');
+}
+
 body{
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
@@ -25,6 +30,8 @@ body{
 
 h1{
     color: var(--cor-destaque);
+    font-family: 'Minecraftia', sans-serif;
+
 }
 
 .button{
