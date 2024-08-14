@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quando você começa um novo projeto de programação, qual é a sua abordagem inicial?",
+        enunciado: "Como evitar que ocorra a extinção de animais nativos?",
         alternativas: [
             {
-                texto: "Gosto de planejar detalhadamente antes de começar a codificar.",
+                texto: "Criação de mais áreas de proteção ambiental, com grande biodiversidade.",
                 afirmacao: "<b>Organização</b> é uma característica forte sua, valorizando o planejamento detalhado."
             },
             {
-                texto: "Prefiro começar a codificar logo e ajustar o plano conforme avanço.",
+                texto: "evitando intervenção de espécies não nativas nesses ambientes",
                 afirmacao: "Você se destaca pela <b>dinamismo</b>, gostando de aprender e ajustar durante o processo."
             }
         ]
